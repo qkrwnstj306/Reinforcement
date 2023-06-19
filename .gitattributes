@@ -1,0 +1,7 @@
+Unity/Kart/Custom_Kart_team_project_result/videos/experiment1.mp4 filter=lfs diff=lfs merge=lfs -text
+Unity/Kart/Custom_Kart_team_project_result/videos/experiment2.mp4 filter=lfs diff=lfs merge=lfs -text
+Unity/Kart/Custom_Kart_team_project_result/videos/experiment3.mp4 filter=lfs diff=lfs merge=lfs -text
+Unity/Kart/Custom_Kart_team_project_result/videos/experiment4.mp4 filter=lfs diff=lfs merge=lfs -text
+Unity/Kart/Custom_Kart_team_project_result/videos/original.mp4 filter=lfs diff=lfs merge=lfs -text
+Unity/Kart/Custom_Kart_team_project_result/**/ filter=lfs diff=lfs merge=lfs -text
+Unity/Kart/Custom_Kart_team_project_result/Term_Project_custom_kart/** filter=lfs diff=lfs merge=lfs -text
