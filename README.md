@@ -52,6 +52,8 @@
    > Kart Project의 경우 해당 repository에도 zip으로 존재하지만 qkrwnstj300@gmail.com의 drive에도 존재한다.   
    <a href="https://drive.google.com/file/d/1VscbUF7Zi6l_9eo40v6Zf4y-fv1RpslG/view?usp=drive_link"/>kart project</a>
    
-  
+  ---
+  ### result   
+  <img src='./Unity/Kart/Custom_Kart_team_project_result/videos/experiment1.mp4' />
   
   
