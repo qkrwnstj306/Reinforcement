@@ -50,7 +50,7 @@
    : Kart Racing 환경에서 PPO & BC algorithm으로 완주하는 것이 목적
 
    > Kart Project의 경우 해당 repository에도 zip으로 존재하지만 qkrwnstj300@gmail.com의 drive에도 존재한다. 
-   <a href="https://drive.google.com/file/d/1VscbUF7Zi6l_9eo40v6Zf4y-fv1RpslG/view?usp=drive_link"/></a>
+   <a href="https://drive.google.com/file/d/1VscbUF7Zi6l_9eo40v6Zf4y-fv1RpslG/view?usp=drive_link"/>kart project</a>
    
   
   
