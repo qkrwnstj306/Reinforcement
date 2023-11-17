@@ -1,7 +1,7 @@
 # Reinforcement
 
-### 1. Test Algorithm 
- : for OpenAI GYM - CartPoleV1
+1. Test Algorithm 
+ : for OpenAI GYM(==0.22.0) - CartPoleV1
  
  (1) A2C
  
@@ -22,7 +22,7 @@
  (9) pytorch multiprocessing
  
  
- ### 2. 똥 피하기 with 동민
+ 2. 똥 피하기 with 동민
   : practice in simple game
   
   (1) DQN
@@ -35,22 +35,7 @@
   
   (5) PPO with LSTM
   
-
-  ### 3. Unity
-   : unity로 environment를 구현 후, reinforcement 적용
-
-   
-   (1) GridWorld
-   
-   : DQN & A2C로 다양한 size의 grid world에서 같은 색깔의 object를 획득하는 것이 목적
-   
-   
-   (2) Kart
-   
-   : Kart Racing 환경에서 PPO & BC algorithm으로 완주하는 것이 목적
-
-   > Kart Project의 경우 해당 repository에도 zip으로 존재하지만 qkrwnstj300@gmail.com의 drive에도 존재한다.   
-   <a href="https://drive.google.com/file/d/1VscbUF7Zi6l_9eo40v6Zf4y-fv1RpslG/view?usp=drive_link"/>kart project</a>
-   
+  
+  
   
   
