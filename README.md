@@ -32,14 +32,24 @@ s.tolist()
 ```
   
   (1) A3C.py
+  
   - 기존의 A3C 로 학습을 하니, stable 하지 않은 거 같아서 gradient cliping 을 통해 안정적으로 학습을 진행한다.
+
   (2) Q-learning_Asynchronous.py
+  
   - one-step Q-learning implementation
+
   (3) Sarsa_Asynchronous.py
+  
   - one-step Sarsa implementation
+
   (4) DQN.py
+  
   - 논문의 비교 대상인 DQN algorithm 구현
  
+  (5) Asynchronous_Methods_for_Deep_Reinforcement_Learning_2023126703_박준서.docx
+ 
+  - Paper review 와 함께 논문을 일부 구현 및 개선한 보고서
 
 ## 똥 피하기 with 동민
   : practice in simple game
