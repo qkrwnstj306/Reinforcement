@@ -1,6 +1,6 @@
 # Reinforcement
 
-1. Test Algorithm 
+## Test Algorithm 
  : for OpenAI GYM(==0.22.0) - CartPoleV1
  
  (1) A2C
@@ -18,14 +18,10 @@
  (7) PPO with LSTM
  
  (8) PPO with multiprocessing
-
- (9) Q-learning Asynchronous
-
- (10) Sarsa Asynchronous
  
  (9) pytorch multiprocessing
  
-2. Test Algorithm/Asynchronous
+## Test Algorithm/Asynchronous
   : *Asynchronous Methods for Deep Reinforcement Learning* 논문을 읽고, 일부 구현 및 개선점을 제시하는 프로젝트
 
   - Tensorboard 를 통해 실험 결과를 확인할 수 있다. (Score-Episode)
@@ -35,7 +31,6 @@
 s.tolist()
 ```
   
-
   (1) A3C.py
   - 기존의 A3C 로 학습을 하니, stable 하지 않은 거 같아서 gradient cliping 을 통해 안정적으로 학습을 진행한다.
   (2) Q-learning_Asynchronous.py
@@ -46,7 +41,7 @@ s.tolist()
   - 논문의 비교 대상인 DQN algorithm 구현
  
 
-3. 똥 피하기 with 동민
+## 똥 피하기 with 동민
   : practice in simple game
   
   (1) DQN
