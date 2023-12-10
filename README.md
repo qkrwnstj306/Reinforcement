@@ -25,7 +25,7 @@
  
  (9) pytorch multiprocessing
  
- 1. Test Algorithm/Asynchronous
+2. Test Algorithm/Asynchronous
   : *Asynchronous Methods for Deep Reinforcement Learning* 논문을 읽고, 일부 구현 및 개선점을 제시하는 프로젝트
 
   - Tensorboard 를 통해 실험 결과를 확인할 수 있다. (Score-Episode)
@@ -46,7 +46,7 @@ s.tolist()
   - 논문의 비교 대상인 DQN algorithm 구현
  
 
- 1. 똥 피하기 with 동민
+3. 똥 피하기 with 동민
   : practice in simple game
   
   (1) DQN
