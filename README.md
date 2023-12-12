@@ -50,6 +50,7 @@ s.tolist()
   (5) Asynchronous_Methods_for_Deep_Reinforcement_Learning_2023126703_박준서.docx
  
   - Paper review 와 함께 논문을 일부 구현 및 개선한 보고서
+  - <a href='./Test Algorithm/Asynchronous/Asynchronous_Methods_for_Deep_Reinforcement_Learning_2023126703_박준서.pdf'>PDF version</a>
 
 ## 똥 피하기 with 동민
   : practice in simple game
